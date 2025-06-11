@@ -31,7 +31,7 @@ This project is part of the CodeAlpha Cyber Security Internship. The objective i
 ## 📌 Steps Followed
 
 ### 1. Selected a Sample Python App
-- Used a vulnerable Python project from [GitHub](https://github.com/satwikkansal/python-security-guide)
+- Used a vulnerable Python project from [GitHub](python-master.zip)
 
 ### 2. Installed Bandit
 ```bash
