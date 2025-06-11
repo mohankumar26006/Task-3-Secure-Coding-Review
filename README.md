@@ -8,7 +8,7 @@ This project is a part of the CodeAlpha Cybersecurity Internship. It involves re
 **Task:** Task 3 - Secure Coding Review  
 **Internship Domain:** Cybersecurity  
 **Organization:** CodeAlpha  
-**GitHub Repository:** [Your Repo Link Here]
+**GitHub Repository:** [https://github.com/mohankumar26006/Task-3-Secure-Coding-Review]
 
 ---
 
